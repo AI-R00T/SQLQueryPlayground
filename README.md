@@ -1,6 +1,7 @@
 SQL Query Playground - 
 This is a simple web application that lets you try out basic SQL-like queries in your web browser. 
 It uses a small, built-in dataset and runs entirely on your computer, so you don't need a real database.
+(Access here - https://ai-r00t.github.io/SQLQueryPlayground/)
 
 How It Works - 
 You type a query into a box. The app processes your query. It shows the results in a table.
